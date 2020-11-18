@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## What is the Virginia Philosophy Reality Lab?
 
 You can use the [editor on GitHub](https://github.com/vmasc-odu/Virginia-Philosophy-Reality-Lab/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
