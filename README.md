@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## What is the Virginia Philosophy Reality Lab?
+
+The Virginia Philosophy Reality Lab is an idiot philosopher at ODU working in tandem with a great team in the Virginia Modelling, Analysis, and Simulation Center.
 
 You can use the [editor on GitHub](https://github.com/vmasc-odu/Virginia-Philosophy-Reality-Lab/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
