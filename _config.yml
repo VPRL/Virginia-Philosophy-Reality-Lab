@@ -1,8 +1,10 @@
 theme: jekyll-theme-cayman
 locale: "en-US"
-name: 'Virginia Philosophy Reality Lab'
 title: 'The Virginia Philosophy Reality Lab'
-subtitle: An interdisciplinary coalition of educators and researchers\ at Old Dominion University in Norfolk, Virginia
-logo: /Images/VPRL_Logo_B_Circle_Transparent_LRes.png
+subtitle: 'An Interdisciplinary Coalition of Educators and Researchers'
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
 github:
   is_project_page: false
