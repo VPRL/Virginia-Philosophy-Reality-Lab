@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Additional Resources"
 permalink: https://vmasc-odu.github.io/Virginia-Philosophy-Reality-Lab/AdditionalResources
+---
 
 ## Additional Resources
 
