@@ -3,3 +3,5 @@ locale: "en-US"
 title: 'The Virginia Philosophy Reality Lab'
 subtitle: 'An interdisciplinary coalition of educators and researchers at Old Dominion University in Norfolk, Virginia'
 logo: "/Images/VPRL_Logo_B_Circle_Transparent_LRes.png"
+github:
+  is_project_page: false
