@@ -4,7 +4,7 @@
 The Virginia Philosophy Reality Lab is an interdisciplinary coalition of educators and researchers at Old Dominion University that explores philosophical issues through extended reality (XR) technologies.  Our current research involves developing virtual reality modules on the basis of traditional philosophical thought experiments to be used as educational tools in the classroom and research tools for experimental studies.   
 
 ## How can I get involved?
-We are constantly looking for participants to for our research endeavors.  If you are interested in being informed about the release of our next module, please contact us at 
+We are constantly looking for participants for our research endeavors.  If you are interested in participating in our next study, please contact us at vprealitylab@gmail.com 
 
 ## Outside Resources
 We are part of a growing network of thinkers and researchers around the world interested in using XR to pursue traditional philosophical topics.  Click HERE to explore other resources and papers exploring these issues.
