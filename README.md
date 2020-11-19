@@ -5,6 +5,7 @@ The Virginia Philosophy Reality Lab is an interdisciplinary coalition of educato
 
 ## How can I get involved?
 We are constantly looking for individuals to participate in our studies.  If you are interested in participating in our next study, please contact us at vprealitylab@gmail.com
+
 If you are an educator or researcher interested in using VR in the classroom or on your next project, all of our completed modules are available on our GitHub page for download.
 
 ## Additional Resources
