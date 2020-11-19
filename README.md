@@ -1,6 +1,6 @@
 # What is the Virginia Philosophy Reality Lab
 
-<img align="left" src="Images/VPRL_Logo_B_Circle_Transparent_LRes.png" alt="The Virginia Philosophy Reality Lab Logo" title="VPRL Logo" width="7%" height="7%" />
+<img align="left" src="Images/VPRL_Logo_B_Circle_Transparent_LRes.png" alt="The Virginia Philosophy Reality Lab Logo" title="VPRL Logo" width="15%" height="15%" />
 
 The Virginia Philosophy Reality Lab is an interdisciplinary coalition of educators and researchers at [Old Dominion University](https://www.odu.edu/) in Norfolk, Virginia, that explores philosophical issues through extended reality (XR) technologies. We are currently developing virtual reality modules on the basis of philosophical thought experiments to be used as educational tools in the classroom and research tools for experimental studies.
 
