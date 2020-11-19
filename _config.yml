@@ -1,10 +1,9 @@
 theme: jekyll-theme-cayman
 locale: "en-US"
-title: 'The Virginia Philosophy Reality Lab'
-subtitle: 'An Interdisciplinary Coalition of Educators and Researchers'
+title: "The Virginia Philosophy Reality Lab"
+subtitle: "An Interdisciplinary Coalition of Educators and Researchers"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
 github:
   is_project_page: false
