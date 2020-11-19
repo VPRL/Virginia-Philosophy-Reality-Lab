@@ -5,7 +5,7 @@ The Virginia Philosophy Reality Lab is an interdisciplinary coalition of educato
 
 The Virginia Philosophy Reality Lab began is a partnership between the ODU [Department of Philosophy and Religious Studies](https://www.odu.edu/philosophy) and the [Virginia Modelling, Analysis, and Simulation Center](https://www.odu.edu/vmasc).  It also works with students and faculty in the ODU [Game Studies & Design Program](https://www.odu.edu/academics/programs/undergraduate/game-studies-design) to create compelling XR experiences that explore philosophical ideas, such as the ethics of life and death decisions in real and virtual contexts.   
 
-[VPRL Personnel](Personnel.md
+[VPRL Personnel](Personnel.md)
 
 ## How can I get involved?
 We are constantly looking for individuals to participate in our studies.  If you are interested in participating in our next study, please contact us at [vprealitylab@odu.edu](mailto:vprealitylab@odu.edu)
