@@ -9,4 +9,4 @@ We are constantly looking for individuals to participate in our studies.  If you
 If you are an educator or researcher interested in using VR in the classroom or on your next project, all of our completed modules are available on our GitHub page for download.
 
 ## Additional Resources
-We are part of a growing network of thinkers and researchers around the world interested in using XR to pursue traditional philosophical topics.  Click HERE to explore other resources and papers exploring these issues.
+We are part of a growing network of thinkers and researchers around the world interested in using XR to pursue traditional philosophical topics.  Click [HERE](AdditionalResources.md) to explore other resources and papers about these topics.
