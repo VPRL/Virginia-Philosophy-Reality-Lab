@@ -4,7 +4,7 @@ We are part of a growing network of thinkers and researchers around the world in
 
 
 ### Youtube Channels and Podcasts
-[Our Youtube Page!!](https://youtu.be/PbUfav7bRh4)
+[Our Youtube Page!!](https://www.youtube.com/watch?v=DyLk4SZzU3k)
 
 [Between Realities Youtube Channel](https://www.youtube.com/channel/UCeA0Q6k4xll-6q0FZ9IF4OQ)- A Virtual Reality Podcast from the philosophical gamer's perspective.
 
