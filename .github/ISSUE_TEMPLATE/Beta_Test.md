@@ -15,7 +15,18 @@ assignees: JShull
   * If you enter in an odd number you will be participating in the **push** study. 
 * Please attempt to answer the following questions to the best of your acknowledgement.
 
+## Equipment Details ##
+
+- [ ] Oculus Quest 1
+- [ ] Oculus Quest 2
+- [ ] Oculus Qust Rift S
+- [ ] Oculus OG 🕶️
+
 ## Scenario Details ###
+
+### Estimated Time ###
+
+> Please provide the rough time you started the experience and use time zones, e.g. *12:30am EST May 4, 2021*
 
 ### Qualtrics Code ###
 
