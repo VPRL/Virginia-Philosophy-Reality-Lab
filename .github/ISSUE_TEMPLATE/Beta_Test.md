@@ -9,11 +9,9 @@ assignees: JShull
 
 # Beta Testing #
 
-There are two active paths you can take to help us beta test this experience. 
-
-* When prompted for an IRB/Qualtrics number please enter in a 6 digit number that ends in an even number e.g. 12345**6**
+* There are two active paths you can take to help us beta test this experience. 
+* We will give you 2 unique codes to test both paths, one will be an even number and one will be an odd number.
   * If you enter in an even number you will be participating in the **switch** study.
-* When prompted for an IRB/Qualtrics number please enter in a 6 digit number that ends in an odd number e.g. 12345**7**
   * If you enter in an odd number you will be participating in the **push** study. 
 * Please attempt to answer the following questions to the best of your acknowledgement.
 
