@@ -52,7 +52,7 @@ assignees: JShull
 *Push Study*
 - [ ] You stopped the train with a Barrel
 - [ ] You did nothing and the five people died 🤯
-- [ ] You did nothing ahd the five people lived 🐛
+- [ ] You did nothing and the five people lived 🐛
 
 
 ### Study Outcome ###
