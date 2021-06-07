@@ -37,7 +37,7 @@ You can participate in our study by following these 3 easy steps:
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-Prospective participants must be 18+ years of age and have access to an Oculus Quest.  Participants will fill out a brief questionnaire before downloading the virtual reality experience that tests responses to virtual life-and-death scenarios.  
+Prospective participants must be 18+ years of age and have access to an Oculus headset.  Participants will fill out a brief questionnaire before downloading the virtual reality experience that tests responses to virtual life-and-death scenarios.  
 
 Data collected from responses to these scenarios will inform new behavioral and social models of moral decision making.  These contributions can also help improve decision making modelling for diverse applications from self-driving cars to robotics and AI networks.
 
