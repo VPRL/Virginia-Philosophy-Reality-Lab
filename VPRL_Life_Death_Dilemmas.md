@@ -12,7 +12,6 @@ The VPRL is asking for participants in a research study on moral decision-making
 You can participate in our study by following these 3 easy steps:
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
 **1. Download and sideload the “VPRL presents Life and Death Moral Dilemmas” app via [Sidequest](https://sidequestvr.com)** 
 
