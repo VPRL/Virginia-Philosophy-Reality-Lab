@@ -42,3 +42,5 @@ Prospective participants must be 18+ years of age and have access to an Oculus h
 Data collected from responses to these scenarios will inform new behavioral and social models of moral decision making.  These contributions can also help improve decision making modelling for diverse applications from self-driving cars to robotics and AI networks.
 
 For any questions or feedback, reach out to us at vprl@odu.edu. We'd love to hear from you!
+
+This research project has been made possible in part by a grant from the National Endowment for the Humanities.
