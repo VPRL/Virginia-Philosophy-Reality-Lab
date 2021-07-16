@@ -4,7 +4,7 @@
 Do you ever wonder what you would do in an emergency where you have to decide who lives and who dies?
 The VPRL is asking for participants in a research study on moral decision-making in virtual reality settings, and we need your help!  
 
-[![VPRL Trolley Problem Introduction](https://github.com/VPRL/Virginia-Philosophy-Reality-Lab/blob/main/Images/VPRLScreenshot.jpg?raw=true)](https://youtu.be/DyLk4SZzU3k "VPRL Trolley Problem Introduction")  
+[![VPRL Trolley Problem Introduction](https://github.com/VPRL/Virginia-Philosophy-Reality-Lab/blob/main/Images/VPRLScreenshot.jpg?raw=true)](https://www.youtube.com/watch?v=MoGW3ySNRqg "VPRL Trolley Problem Introduction")  
 
 
 <p>&nbsp;</p>
@@ -15,7 +15,7 @@ You can participate in our study by following these 3 easy steps:
 
 **1. Download and sideload the “VPRL presents Life and Death Moral Dilemmas” app via [Sidequest](https://sidequestvr.com)** 
 
-   -1a. Visit our app listing https://sidequestvr.com/app/4383/vprl-presents-life-and-death-moral-dilemmas and select “Install to Headset” while your headset is plugged into your computer.
+   -1a. Visit our app listing https://sidequestvr.com/app/4383 and select “Install to Headset” while your headset is plugged into your computer.
    
    -1b. If you're new to sideloading, first install Sidequest and set it up by following the instructions [HERE](https://sidequestvr.com/setup-howto).  This will allow you to install our app on your headset. 
 
