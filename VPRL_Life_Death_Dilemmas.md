@@ -17,7 +17,7 @@ You can participate in our study by following these 3 easy steps:
 
    -1a. If you're new to sideloading, first install Sidequest and set it up by following the instructions [HERE](https://sidequestvr.com/setup-howto).  This will allow you to sideload our app onto your headset. 
    
-   -1b. Then visit our app listing https://sidequestvr.com/app/4383 and select “Install to Headset” while your headset is plugged into your computer.
+   -1b. Then visit our app listing [https://sidequestvr.com/app/4383](https://sidequestvr.com/app/4383) and select “Install to Headset” while your headset is plugged into your computer.
 
 <img align="center" src="Images/VPRLSidequestListing.jpg" alt="A picture of the VPRL Sidequest Listing" title="VPRL Sidequest Listing" width="100%" height="100%" />
 
@@ -44,3 +44,8 @@ Data collected from responses to these scenarios will inform new behavioral and 
 For any questions or feedback, reach out to us at vprl@odu.edu. We'd love to hear from you!
 
 This research project has been made possible in part by a grant from the National Endowment for the Humanities.
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+[RETURN TO MAIN PAGE](README.md)
