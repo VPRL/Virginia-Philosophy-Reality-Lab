@@ -13,13 +13,13 @@ You can participate in our study by following these 3 easy steps:
 
 <p>&nbsp;</p>
 
-**1. Download and sideload the “VPRL presents Life and Death Moral Dilemmas” app via [Sidequest](https://sidequestvr.com)** 
+**1. [Download](https://sidequestvr.com/app/4383) and sideload the “VPRL presents Life and Death Moral Dilemmas” app via Sidequest** 
 
-   -1a. Visit our app listing https://sidequestvr.com/app/4383 and select “Install to Headset” while your headset is plugged into your computer.
+   -1a. If you're new to sideloading, first install Sidequest and set it up by following the instructions [HERE](https://sidequestvr.com/setup-howto).  This will allow you to sideload our app onto your headset. 
    
-   -1b. If you're new to sideloading, first install Sidequest and set it up by following the instructions [HERE](https://sidequestvr.com/setup-howto).  This will allow you to install our app on your headset. 
+   -1b. Then visit our app listing https://sidequestvr.com/app/4383 and select “Install to Headset” while your headset is plugged into your computer.
 
-<img align="center" src="Images/VPRLPlaceholder.jpg" alt="Placeholder Image" title="VPRL Listing" width="100%" height="100%" />
+<img align="center" src="Images/VPRLSidequestListing.jpg" alt="A picture of the VPRL Sidequest Listing" title="VPRL Sidequest Listing" width="100%" height="100%" />
 
 <p>&nbsp;</p>
 
