@@ -2,14 +2,15 @@
 
 
 Do you ever wonder what you would do in an emergency where you have to decide who lives and who dies?
-The VPRL is asking for participants in a research study on moral decision-making in virtual reality settings, and we need your help!  
+The VPRL is asking for participants in a research study on moral decision-making in virtual reality settings, and we need your help! In exchange for completing the ≈15 minute experience, participants will have the opportunity to enter their email address for a chance to win a $10 Steam gift card. 
+     
 
 [![VPRL Trolley Problem Introduction](https://github.com/VPRL/Virginia-Philosophy-Reality-Lab/blob/main/Images/VPRLScreenshot.jpg?raw=true)](https://www.youtube.com/watch?v=MoGW3ySNRqg "VPRL Trolley Problem Introduction")  
 
 
 <p>&nbsp;</p>
 
-You can participate in our study by following these 3 easy steps:
+You can participate in our study by following these easy steps:
 
 <p>&nbsp;</p>
 
@@ -23,21 +24,13 @@ You can participate in our study by following these 3 easy steps:
 
 <p>&nbsp;</p>
 
-**2. While the app installs, complete our Informed Consent document and demographics survey [HERE](https://odu.co1.qualtrics.com/jfe/form/SV_2oFIIdy6LeNtj25)**
-      
-    -2a. Make sure to write down your Survey Code at the end! 
-     
+**2. Put on your Oculus headset, open your app library, and start the experience!  The app will appear under the “Unknown Sources” folder in your app library.** 
 
- <p>&nbsp;</p>
-
-**3. Put on your Oculus headset, open your app library, and start the experience!  The app will appear under the “Unknown Sources” folder in your app library.** 
-
-   -3a. When prompted in the experience, please enter the Survey Code you received in Step 2. 
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-Prospective participants must be 18+ years of age and have access to an Oculus headset.  Participants will fill out a brief questionnaire before downloading the virtual reality experience that tests responses to virtual life-and-death scenarios.  
+Prospective participants must be 18+ years of age and have access to an Oculus headset. Participants will fill out a brief in-app questionnaire before the experience begins.  
 
 Data collected from responses to these scenarios will inform new behavioral and social models of moral decision making.  These contributions can also help improve decision making modelling for diverse applications from self-driving cars to robotics and AI networks.
 
