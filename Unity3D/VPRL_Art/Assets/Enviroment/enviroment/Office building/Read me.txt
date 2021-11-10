@@ -1,0 +1,41 @@
+Thanks for buying the polygon office building.
+
+
+Light baking :
+- Set all to static expect moving objects, door & elevator or any you want to move.
+- To get good performance and it is really required that you light baking all. It takes a while and depends on you computer performance and 
+   which quality you want to get at the end.
+
+
+
+
+Performance :
+
+- occlusion culling you scene which really saves you much performance.
+
+
+
+
+
+Building :
+
+The doors & elevator are already programmed.
+To fix the elevator flip, you need to programm a fix by you self. If you stand with you Player in it  -> Transform the height equal as the evelator current moves.
+If you jump, turn the holding off until you grounding with you player.
+
+
+
+
+
+
+Setting up the Player:
+
+- Import the standard assets from unity and drag the FPS controller into the scene of the office building <- Or use you player and involve the script "DoorAction" in it.
+- drag the " Action cube Prefab " into the camera of the FPS controller, so that the "Action cube Prefab" aim forward(The blue arrow) <- you can also only using the script, clear it with you self, how you use it.
+- Also tag you player as "Player"
+
+
+"e" is the button to performance a action to open the door or to click a button in the elvator
+
+
+for askes feel free to contact me tmg@fn.de.
