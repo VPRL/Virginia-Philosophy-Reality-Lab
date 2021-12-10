@@ -1,6 +1,6 @@
 # The Virginia Philosophy Reality Lab
 
-<img align="center" src="Images/Exploring_the_Humanities_in_VR_Workshop_Poster.jpg" alt="Exploring the Humanities in VR Workshop"/>
+<img align="center" src="https://github.com/VPRL/Virginia-Philosophy-Reality-Lab/blob/main/Images/Exploring_the_Humanities_in_VR_Workshop_Poster.jpg" alt="Exploring the Humanities in VR Workshop"/>
 
 <img align="left" src="Images/VPRL_Logo_B_Circle_Transparent_LRes.png" alt="The Virginia Philosophy Reality Lab Logo" title="VPRL Logo" width="17%" height="17%" />
 
